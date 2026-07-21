@@ -1,25 +1,22 @@
-# CPI–WPI Regression Analysis using R
+👋 Hi, I'm Sheen Chaudhary
 
-## Overview
-This project analyzes the relationship between the Consumer Price Index (CPI) and the Wholesale Price Index using linear regression in R.
+🎓 B.Sc. (Hons.) Mathematics
+University of Delhi
 
-## Objectives
-- Clean and prepare the dataset.
-- Perform regression analysis.
-- Visualize the results.
-- Interpret the statistical findings.
+📊 Aspiring Data Analyst
 
-## Tools Used
-- R Programming
-- Microsoft Excel
+Skills
+• R
+• Excel
+• Python
+• Statistics
+• Data Analysis
 
-## Files
-- Dataset_CPI_WPI.xlsx
-- Regression_Analysis_CPI_WPI.R
-- Regression_Analysis_Report.pdf
+Featured Project
+📈 CPI-WPI Regression Analysis
 
-## Skills Demonstrated
-- Data Cleaning
-- Regression Analysis
-- Statistical Analysis
-- Data Visualization
+Certificates
+
+Contact
+LinkedIn
+Email
