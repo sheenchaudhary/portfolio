@@ -20,9 +20,6 @@ This project analyzes the relationship between the Consumer Price Index (CPI) an
 
 ## Visualizations
 
-### Scatter Plot
-![Scatter Plot](scatter_plot.png)
-
 ### Diagnostic Plots
 ![Diagnostic Plots](diagnostic_plots.png)
 
