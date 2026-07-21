@@ -15,5 +15,6 @@
 📈 CPI-WPI Regression Analysis using R
 
 ## Connect with Me
-- LinkedIn
-- Email
+
+- LinkedIn: https://www.linkedin.com/in/your-profile
+- Email: sheenchaudhary051@gmail.com
