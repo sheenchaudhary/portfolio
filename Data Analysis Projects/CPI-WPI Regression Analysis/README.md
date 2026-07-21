@@ -18,6 +18,14 @@ This project analyzes the relationship between the Consumer Price Index (CPI) an
 - Regression_Analysis_CPI_WPI.R
 - Regression_Analysis_Report.pdf
 
+## Visualizations
+
+### Scatter Plot
+![Scatter Plot](scatter_plot.png)
+
+### Diagnostic Plots
+![Diagnostic Plots](diagnostic_plots.png)
+
 ## Skills Demonstrated
 - Data Cleaning
 - Regression Analysis
